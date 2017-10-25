@@ -1,10 +1,10 @@
 <object name="portal_skins">
   <object
-    name="upiqsite_base"
+    name="upiqsite_idhdsp"
     meta_type="Filesystem Directory View"
-    directory="upiqsite.base:skins/upiqsite_base"
+    directory="upiqsite.idhdsp:skins/upiqsite_idhdsp"
     />
   <skin-path name="Sunburst Theme">
-    <layer name="upiqsite_base" insert-after="custom" />
+    <layer name="upiqsite_idhdsp" insert-after="custom" />
   </skin-path>
 </object>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>    
+<layers> 
+  <layer name="upiqsite.idhdsp" 
+         interface="upiqsite.idhdsp.interfaces.IIDHDSPSiteProductLayer" /> 
+</layers>
+

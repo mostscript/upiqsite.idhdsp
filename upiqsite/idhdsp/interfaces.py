@@ -1,6 +1,6 @@
 from zope.interface import Interface
 
 
-class IBASESiteProductLayer(Interface):
+class IIDHDSPSiteProductLayer(Interface):
     """Marker interface for policy product layer"""
 
